@@ -1,4 +1,7 @@
 # AnT_Comp410_Spring19
+
+[![Build Status](https://travis-ci.com/ccannon94/AnT_Comp410_Spring19.svg?branch=sprint_2)](https://travis-ci.com/ccannon94/AnT_Comp410_Spring19)
+
 Class project for COMP410 spring 2019 
 
 To run the sample
